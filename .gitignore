@@ -1,0 +1,68 @@
+# Embedded Firmware Project - Git Ignore
+# Copyright (c) 2016
+
+# Build outputs
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# IAR
+Debug/
+Release/
+settings/
+*.dep
+*.ewd
+*.ewp
+*.eww
+
+# Keil
+Objects/
+Listings/
+*.uvoptx
+*.uvprojx
+*.uvguix.*
+*.scvd
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Documentation builds
+docs/_build/
+
+# Test coverage
+coverage/
+*.gcov
+*.gcda
+*.gcno
+
+# Backup files
+*.bak
+*.orig
