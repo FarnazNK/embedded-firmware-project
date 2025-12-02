@@ -133,6 +133,5 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## Acknowledgments
 
 - ARM CMSIS for Cortex-M definitions
-- The embedded systems open source community
 
 ---
