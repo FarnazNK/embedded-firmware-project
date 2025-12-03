@@ -126,7 +126,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 
 
-## Authors
+## Author
 
 - Farnaz Nasehi 
 
