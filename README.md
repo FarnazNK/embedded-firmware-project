@@ -114,15 +114,6 @@ Edit `include/config.hpp` to customize:
 #define DEBUG_ENABLED       1           // Enable debug output
 ```
 
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-driver`)
-3. Commit your changes (`git commit -am 'Add new sensor driver'`)
-4. Push to the branch (`git push origin feature/new-driver`)
-5. Open a Pull Request
 
 
 
